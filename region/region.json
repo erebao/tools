@@ -9076,7 +9076,7 @@
             "id": "1298",
             "code": "230523",
             "name": "宝清",
-            "pinyin": "lj-shuangyashan-baoqing",
+            "pinyin": "hlj-shuangyashan-baoqing",
             "parent_code": "230500"
         },
         {
@@ -9153,14 +9153,14 @@
             "id": "1309",
             "code": "230702",
             "name": "伊春",
-            "pinyin": "lj-yichun-yichun",
+            "pinyin": "hlj-yichun-yichun",
             "parent_code": "230700"
         },
         {
             "id": "1310",
             "code": "230703",
             "name": "南岔",
-            "pinyin": "lj-yichun-nancha",
+            "pinyin": "hlj-yichun-nancha",
             "parent_code": "230700"
         },
         {
@@ -17587,8 +17587,8 @@
         {
             "id": "2516",
             "code": "420600",
-            "name": "襄樊",
-            "pinyin": "hb-xiangfan",
+            "name": "襄阳",
+            "pinyin": "hb-xiangyang",
             "parent_code": "420000"
         },
         {
@@ -17959,63 +17959,63 @@
             "id": "2569",
             "code": "420602",
             "name": "襄城",
-            "pinyin": "hb-xiangfan-xiangcheng",
+            "pinyin": "hb-xiangyang-xiangcheng",
             "parent_code": "420600"
         },
         {
             "id": "2570",
             "code": "420606",
             "name": "樊城",
-            "pinyin": "hb-xiangfan-fancheng",
+            "pinyin": "hb-xiangyang-fancheng",
             "parent_code": "420600"
         },
         {
             "id": "2571",
             "code": "420607",
             "name": "襄阳",
-            "pinyin": "hb-xiangfan-xiangyang",
+            "pinyin": "hb-xiangyang-xiangyang",
             "parent_code": "420600"
         },
         {
             "id": "2572",
             "code": "420624",
             "name": "南漳",
-            "pinyin": "hb-xiangfan-nanzhang",
+            "pinyin": "hb-xiangyang-nanzhang",
             "parent_code": "420600"
         },
         {
             "id": "2573",
             "code": "420625",
             "name": "谷城",
-            "pinyin": "hb-xiangfan-gucheng",
+            "pinyin": "hb-xiangyang-gucheng",
             "parent_code": "420600"
         },
         {
             "id": "2574",
             "code": "420626",
             "name": "保康",
-            "pinyin": "hb-xiangfan-baokang",
+            "pinyin": "hb-xiangyang-baokang",
             "parent_code": "420600"
         },
         {
             "id": "2575",
             "code": "420682",
             "name": "老河口",
-            "pinyin": "hb-xiangfan-laohekou",
+            "pinyin": "hb-xiangyang-laohekou",
             "parent_code": "420600"
         },
         {
             "id": "2576",
             "code": "420683",
             "name": "枣阳",
-            "pinyin": "hb-xiangfan-zaoyang",
+            "pinyin": "hb-xiangyang-zaoyang",
             "parent_code": "420600"
         },
         {
             "id": "2577",
             "code": "420684",
             "name": "宜城",
-            "pinyin": "hb-xiangfan-yicheng",
+            "pinyin": "hb-xiangyang-yicheng",
             "parent_code": "420600"
         },
         {
@@ -39759,650 +39759,6 @@
             "name": "路环",
             "pinyin": "am-luhuan",
             "parent_code": "820000"
-        },
-        {
-            "id": "5688",
-            "code": "110105043",
-            "name": "东湖",
-            "pinyin": "bj-chaoyang-donghu",
-            "parent_code": "110105"
-        },
-        {
-            "id": "5689",
-            "code": "110112007",
-            "name": "潞源",
-            "pinyin": "bj-tongzhou-luyuan",
-            "parent_code": "110112"
-        },
-        {
-            "id": "5690",
-            "code": "110112008",
-            "name": "通运",
-            "pinyin": "bj-tongzhou-tongyun",
-            "parent_code": "110112"
-        },
-        {
-            "id": "5691",
-            "code": "110114008",
-            "name": "天通苑北",
-            "pinyin": "bj-changping-tiantongyuanbei",
-            "parent_code": "110114"
-        },
-        {
-            "id": "5692",
-            "code": "110114009",
-            "name": "天通苑南",
-            "pinyin": "bj-changping-tiantongyuannan",
-            "parent_code": "110114"
-        },
-        {
-            "id": "5693",
-            "code": "110114010",
-            "name": "霍营",
-            "pinyin": "bj-changping-huoying",
-            "parent_code": "110114"
-        },
-        {
-            "id": "5694",
-            "code": "110114012",
-            "name": "龙泽园",
-            "pinyin": "bj-changping-longzeyuan",
-            "parent_code": "110114"
-        },
-        {
-            "id": "5695",
-            "code": "110114013",
-            "name": "史各庄",
-            "pinyin": "bj-changping-shigezhuang",
-            "parent_code": "110114"
-        },
-        {
-            "id": "5696",
-            "code": "110114120",
-            "name": "延寿镇",
-            "pinyin": "bj-changping-yanshouzhen",
-            "parent_code": "110114"
-        },
-        {
-            "id": "5697",
-            "code": "110115001",
-            "name": "兴丰",
-            "pinyin": "bj-daxing-xingfeng",
-            "parent_code": "110115"
-        },
-        {
-            "id": "5698",
-            "code": "110115002",
-            "name": "林校路",
-            "pinyin": "bj-daxing-linxiaolu",
-            "parent_code": "110115"
-        },
-        {
-            "id": "5699",
-            "code": "110115003",
-            "name": "清源",
-            "pinyin": "bj-daxing-qingyuan",
-            "parent_code": "110115"
-        },
-        {
-            "id": "5700",
-            "code": "110115004",
-            "name": "亦庄",
-            "pinyin": "bj-daxing-yizhuang",
-            "parent_code": "110115"
-        },
-        {
-            "id": "5701",
-            "code": "110115005",
-            "name": "黄村",
-            "pinyin": "bj-daxing-huangcun",
-            "parent_code": "110115"
-        },
-        {
-            "id": "5702",
-            "code": "110115006",
-            "name": "旧宫",
-            "pinyin": "bj-daxing-jiugong",
-            "parent_code": "110115"
-        },
-        {
-            "id": "5703",
-            "code": "110115007",
-            "name": "西红门",
-            "pinyin": "bj-daxing-xihongmen",
-            "parent_code": "110115"
-        },
-        {
-            "id": "5704",
-            "code": "110115008",
-            "name": "瀛海",
-            "pinyin": "bj-daxing-yinghai",
-            "parent_code": "110115"
-        },
-        {
-            "id": "5705",
-            "code": "110115009",
-            "name": "观音寺",
-            "pinyin": "bj-daxing-guanyinsi",
-            "parent_code": "110115"
-        },
-        {
-            "id": "5706",
-            "code": "110115010",
-            "name": "天宫院",
-            "pinyin": "bj-daxing-tiangongyuan",
-            "parent_code": "110115"
-        },
-        {
-            "id": "5707",
-            "code": "110115011",
-            "name": "高米店",
-            "pinyin": "bj-daxing-gaomidian",
-            "parent_code": "110115"
-        },
-        {
-            "id": "5708",
-            "code": "110115012",
-            "name": "荣华",
-            "pinyin": "bj-daxing-ronghua",
-            "parent_code": "110115"
-        },
-        {
-            "id": "5709",
-            "code": "110115013",
-            "name": "博兴",
-            "pinyin": "bj-daxing-boxing",
-            "parent_code": "110115"
-        },
-        {
-            "id": "5710",
-            "code": "110115103",
-            "name": "青云店镇",
-            "pinyin": "bj-daxing-qingyundianzhen",
-            "parent_code": "110115"
-        },
-        {
-            "id": "5711",
-            "code": "110115104",
-            "name": "采育镇",
-            "pinyin": "bj-daxing-caiyuzhen",
-            "parent_code": "110115"
-        },
-        {
-            "id": "5712",
-            "code": "110115105",
-            "name": "安定镇",
-            "pinyin": "bj-daxing-andingzhen",
-            "parent_code": "110115"
-        },
-        {
-            "id": "5713",
-            "code": "110115106",
-            "name": "礼贤镇",
-            "pinyin": "bj-daxing-lixianzhen",
-            "parent_code": "110115"
-        },
-        {
-            "id": "5714",
-            "code": "110115107",
-            "name": "榆垡镇",
-            "pinyin": "bj-daxing-yufazhen",
-            "parent_code": "110115"
-        },
-        {
-            "id": "5715",
-            "code": "110115108",
-            "name": "庞各庄镇",
-            "pinyin": "bj-daxing-panggezhuangzhen",
-            "parent_code": "110115"
-        },
-        {
-            "id": "5716",
-            "code": "110115109",
-            "name": "北臧村镇",
-            "pinyin": "bj-daxing-beicangcunzhen",
-            "parent_code": "110115"
-        },
-        {
-            "id": "5717",
-            "code": "110115110",
-            "name": "魏善庄镇",
-            "pinyin": "bj-daxing-weishanzhuangzhen",
-            "parent_code": "110115"
-        },
-        {
-            "id": "5718",
-            "code": "110115111",
-            "name": "长子营镇",
-            "pinyin": "bj-daxing-changziyingzhen",
-            "parent_code": "110115"
-        },
-        {
-            "id": "5719",
-            "code": "110115403",
-            "name": "北京经济技术开发区",
-            "pinyin": "bj-daxing-beijingjingjijishukaifaqu",
-            "parent_code": "110115"
-        },
-        {
-            "id": "5720",
-            "code": "110115404",
-            "name": "中关村国家自主创新示范区大兴生物医药产业基地",
-            "pinyin": "bj-daxing-zhongguancunguojiazizhuchuangxinshifanqudaxingshengwuyiyaochanyejidi",
-            "parent_code": "110115"
-        },
-        {
-            "id": "5721",
-            "code": "110115405",
-            "name": "国家新媒体产业基地",
-            "pinyin": "bj-daxing-guojiaxinmeitichanyejidi",
-            "parent_code": "110115"
-        },
-        {
-            "id": "5722",
-            "code": "110115406",
-            "name": "大兴国际机场",
-            "pinyin": "bj-daxing-daxingguojijichang",
-            "parent_code": "110115"
-        },
-        {
-            "id": "5723",
-            "code": "110116001",
-            "name": "泉河",
-            "pinyin": "bj-huairou-quanhe",
-            "parent_code": "110116"
-        },
-        {
-            "id": "5724",
-            "code": "110116002",
-            "name": "龙山",
-            "pinyin": "bj-huairou-longshan",
-            "parent_code": "110116"
-        },
-        {
-            "id": "5725",
-            "code": "110116003",
-            "name": "怀柔",
-            "pinyin": "bj-huairou-huairou",
-            "parent_code": "110116"
-        },
-        {
-            "id": "5726",
-            "code": "110116004",
-            "name": "雁栖",
-            "pinyin": "bj-huairou-yanxi",
-            "parent_code": "110116"
-        },
-        {
-            "id": "5727",
-            "code": "110116005",
-            "name": "庙城",
-            "pinyin": "bj-huairou-miaocheng",
-            "parent_code": "110116"
-        },
-        {
-            "id": "5728",
-            "code": "110116102",
-            "name": "北房镇",
-            "pinyin": "bj-huairou-beifangzhen",
-            "parent_code": "110116"
-        },
-        {
-            "id": "5729",
-            "code": "110116103",
-            "name": "杨宋镇",
-            "pinyin": "bj-huairou-yangsongzhen",
-            "parent_code": "110116"
-        },
-        {
-            "id": "5730",
-            "code": "110116105",
-            "name": "桥梓镇",
-            "pinyin": "bj-huairou-qiaozizhen",
-            "parent_code": "110116"
-        },
-        {
-            "id": "5731",
-            "code": "110116106",
-            "name": "怀北镇",
-            "pinyin": "bj-huairou-huaibeizhen",
-            "parent_code": "110116"
-        },
-        {
-            "id": "5732",
-            "code": "110116107",
-            "name": "汤河口镇",
-            "pinyin": "bj-huairou-tanghekouzhen",
-            "parent_code": "110116"
-        },
-        {
-            "id": "5733",
-            "code": "110116108",
-            "name": "渤海镇",
-            "pinyin": "bj-huairou-bohaizhen",
-            "parent_code": "110116"
-        },
-        {
-            "id": "5734",
-            "code": "110116109",
-            "name": "九渡河镇",
-            "pinyin": "bj-huairou-jiuduhezhen",
-            "parent_code": "110116"
-        },
-        {
-            "id": "5735",
-            "code": "110116110",
-            "name": "琉璃庙镇",
-            "pinyin": "bj-huairou-liulimiaozhen",
-            "parent_code": "110116"
-        },
-        {
-            "id": "5736",
-            "code": "110116111",
-            "name": "宝山镇",
-            "pinyin": "bj-huairou-baoshanzhen",
-            "parent_code": "110116"
-        },
-        {
-            "id": "5737",
-            "code": "110116211",
-            "name": "长哨营满族乡",
-            "pinyin": "bj-huairou-changshaoyingmanzuxiang",
-            "parent_code": "110116"
-        },
-        {
-            "id": "5738",
-            "code": "110116213",
-            "name": "喇叭沟门满族乡",
-            "pinyin": "bj-huairou-labagoumenmanzuxiang",
-            "parent_code": "110116"
-        },
-        {
-            "id": "5739",
-            "code": "110116400",
-            "name": "北京雁栖经济开发区",
-            "pinyin": "bj-huairou-beijingyanxijingjikaifaqu",
-            "parent_code": "110116"
-        },
-        {
-            "id": "5740",
-            "code": "110117001",
-            "name": "滨河",
-            "pinyin": "bj-pinggu-binghe",
-            "parent_code": "110117"
-        },
-        {
-            "id": "5741",
-            "code": "110117002",
-            "name": "兴谷",
-            "pinyin": "bj-pinggu-xinggu",
-            "parent_code": "110117"
-        },
-        {
-            "id": "5742",
-            "code": "110117003",
-            "name": "渔阳",
-            "pinyin": "bj-pinggu-yuyang",
-            "parent_code": "110117"
-        },
-        {
-            "id": "5743",
-            "code": "110117004",
-            "name": "峪口",
-            "pinyin": "bj-pinggu-yukou",
-            "parent_code": "110117"
-        },
-        {
-            "id": "5744",
-            "code": "110117005",
-            "name": "马坊",
-            "pinyin": "bj-pinggu-mafang",
-            "parent_code": "110117"
-        },
-        {
-            "id": "5745",
-            "code": "110117006",
-            "name": "金海湖",
-            "pinyin": "bj-pinggu-jinhaihu",
-            "parent_code": "110117"
-        },
-        {
-            "id": "5746",
-            "code": "110117101",
-            "name": "东高村镇",
-            "pinyin": "bj-pinggu-donggaocunzhen",
-            "parent_code": "110117"
-        },
-        {
-            "id": "5747",
-            "code": "110117102",
-            "name": "山东庄镇",
-            "pinyin": "bj-pinggu-shandongzhuangzhen",
-            "parent_code": "110117"
-        },
-        {
-            "id": "5748",
-            "code": "110117104",
-            "name": "南独乐河镇",
-            "pinyin": "bj-pinggu-nandulehezhen",
-            "parent_code": "110117"
-        },
-        {
-            "id": "5749",
-            "code": "110117105",
-            "name": "大华山镇",
-            "pinyin": "bj-pinggu-dahuashanzhen",
-            "parent_code": "110117"
-        },
-        {
-            "id": "5750",
-            "code": "110117106",
-            "name": "夏各庄镇",
-            "pinyin": "bj-pinggu-xiagezhuangzhen",
-            "parent_code": "110117"
-        },
-        {
-            "id": "5751",
-            "code": "110117108",
-            "name": "马昌营镇",
-            "pinyin": "bj-pinggu-machangyingzhen",
-            "parent_code": "110117"
-        },
-        {
-            "id": "5752",
-            "code": "110117110",
-            "name": "王辛庄镇",
-            "pinyin": "bj-pinggu-wangxinzhuangzhen",
-            "parent_code": "110117"
-        },
-        {
-            "id": "5753",
-            "code": "110117111",
-            "name": "大兴庄镇",
-            "pinyin": "bj-pinggu-daxingzhuangzhen",
-            "parent_code": "110117"
-        },
-        {
-            "id": "5754",
-            "code": "110117112",
-            "name": "刘家店镇",
-            "pinyin": "bj-pinggu-liujiadianzhen",
-            "parent_code": "110117"
-        },
-        {
-            "id": "5755",
-            "code": "110117114",
-            "name": "镇罗营镇",
-            "pinyin": "bj-pinggu-zhenluoyingzhen",
-            "parent_code": "110117"
-        },
-        {
-            "id": "5756",
-            "code": "110117213",
-            "name": "黄松峪乡",
-            "pinyin": "bj-pinggu-huangyuguxiang",
-            "parent_code": "110117"
-        },
-        {
-            "id": "5757",
-            "code": "110117214",
-            "name": "熊儿寨乡",
-            "pinyin": "bj-pinggu-xiongerzhaixiang",
-            "parent_code": "110117"
-        },
-        {
-            "id": "5758",
-            "code": "110118400",
-            "name": "北京密云经济开发区\r\n",
-            "pinyin": "bj-miyun-beijingmiyunjingjikaifaqu",
-            "parent_code": "110118"
-        },
-        {
-            "id": "5759",
-            "code": "120103014",
-            "name": "太湖路",
-            "pinyin": "tj-hexiqu-taihulu",
-            "parent_code": "120103"
-        },
-        {
-            "id": "5760",
-            "code": "120110009",
-            "name": "金桥",
-            "pinyin": "tj-dongli-hangkongxincheng",
-            "parent_code": "120110"
-        },
-        {
-            "id": "5761",
-            "code": "120110010",
-            "name": "华新",
-            "pinyin": "tj-dongli-huaxin",
-            "parent_code": "120110"
-        },
-        {
-            "id": "5762",
-            "code": "120110011",
-            "name": "东丽湖",
-            "pinyin": "tj-dongli-donglihu",
-            "parent_code": "120110"
-        },
-        {
-            "id": "5763",
-            "code": "120110407",
-            "name": "服务滨海新区建设管理委员会",
-            "pinyin": "tj-dongli-fuwubinghaixinqujiansheguanliweiyuanhui",
-            "parent_code": "120110"
-        },
-        {
-            "id": "5764",
-            "code": "120111003",
-            "name": "赤龙南",
-            "pinyin": "tj-xiqing-chilongnan",
-            "parent_code": "120111"
-        },
-        {
-            "id": "5765",
-            "code": "120112407",
-            "name": "海河教育园区",
-            "pinyin": "tj-jinnanqu-haihejiaoyuyuanqu",
-            "parent_code": "120112"
-        },
-        {
-            "id": "5766",
-            "code": "120112001",
-            "name": "双新",
-            "pinyin": "tj-jinnanqu-shuangxin",
-            "parent_code": "120112"
-        },
-        {
-            "id": "5767",
-            "code": "120112002",
-            "name": "双林",
-            "pinyin": "tj-jinnanqu-shuanglin",
-            "parent_code": "120112"
-        },
-        {
-            "id": "5768",
-            "code": "120113005",
-            "name": "佳荣里",
-            "pinyin": "tj-beichen-jiarongli",
-            "parent_code": "120113"
-        },
-        {
-            "id": "5769",
-            "code": "120113006",
-            "name": "青源",
-            "pinyin": "tj-beichen-qingyuan",
-            "parent_code": "120113"
-        },
-        {
-            "id": "5770",
-            "code": "120113007",
-            "name": "广源",
-            "pinyin": "tj-beichen-guangyuan",
-            "parent_code": "120113"
-        },
-        {
-            "id": "5771",
-            "code": "120114402",
-            "name": "天津武清商务区",
-            "pinyin": "tj-wuqing-tianjingwuqingshangwuqu",
-            "parent_code": "120114"
-        },
-        {
-            "id": "5772",
-            "code": "120114403",
-            "name": "天津京滨工业园",
-            "pinyin": "tj-wuqing-tianjingjingbinggongyeyuan",
-            "parent_code": "120114"
-        },
-        {
-            "id": "5773",
-            "code": "120114404",
-            "name": "天津京津电子商务产业园",
-            "pinyin": "tj-wuqing-tianjingjinjingdianzishangwuchanyeyuan",
-            "parent_code": "120114"
-        },
-        {
-            "id": "5774",
-            "code": "120114405",
-            "name": "天津武清汽车产业园",
-            "pinyin": "tj-wuqing-tianjingwuqingqichechanyeyuan",
-            "parent_code": "120114"
-        },
-        {
-            "id": "5775",
-            "code": "120114406",
-            "name": "天津京津科技谷",
-            "pinyin": "tj-wuqing-tianjingjinjingkejigu",
-            "parent_code": "120114"
-        },
-        {
-            "id": "5776",
-            "code": "120114407",
-            "name": "京津高村科技创新园",
-            "pinyin": "tj-wuqing-jinjinggaocunkejichuangxinyuan",
-            "parent_code": "120114"
-        },
-        {
-            "id": "5777",
-            "code": "120115007",
-            "name": "潮阳",
-            "pinyin": "tj-baochi-chaoyang",
-            "parent_code": "120115"
-        },
-        {
-            "id": "5778",
-            "code": "120115008",
-            "name": "朝霞",
-            "pinyin": "tj-baochi-chaoxia",
-            "parent_code": "120115"
-        },
-        {
-            "id": "5779",
-            "code": "120115456",
-            "name": "宝坻经济开发区",
-            "pinyin": "tj-baochi-baozhijingjikaifaqu",
-            "parent_code": "120115"
         }
     ]
 }
